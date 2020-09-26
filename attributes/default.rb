@@ -1,2 +1,2 @@
 # APT update frequency
-default[:olyn_apt][:update_frequency] = 86_400
+default[:olyn_apt][:config][:update_frequency] = 86_400
